@@ -47,6 +47,16 @@ Output:
 ![image](https://github.com/user-attachments/assets/1cf7e8fe-ce3d-474c-b424-346a5082ce2d)
 
 ```
+
+```
+dataset.tail()
+```
+
+Output:
+
+![image](https://github.com/user-attachments/assets/fa73cd99-b205-4dc1-bb1f-f6e9f612b26a)
+
+```
 dataset.info()
 ```
 Output:
