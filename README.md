@@ -42,6 +42,7 @@ Output:
 ```
 dataset.head()
 ```
+
 Output:
 
 ![image](https://github.com/user-attachments/assets/1cf7e8fe-ce3d-474c-b424-346a5082ce2d)
@@ -59,6 +60,7 @@ Output:
 ```
 dataset.info()
 ```
+
 Output:
 
 ![image](https://github.com/user-attachments/assets/85224ece-6115-46de-9c13-b70983a63d27)
